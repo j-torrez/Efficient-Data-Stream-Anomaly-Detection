@@ -37,8 +37,3 @@ You can install the required libraries using this command:
 ```bash
 pip install -r requirements.txt
 
-## Start Project
-
-To run this project:
-
-- `python main.py`
